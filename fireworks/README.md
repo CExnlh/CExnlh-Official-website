@@ -1,0 +1,1 @@
+Hello everyone, I am Electronic Fireworks, from China. In China, the government restricts people from setting off fireworks, so I created it. You can set off fireworks by clicking the mouse (with very good sounds), and the button in the upper left corner allows you to enjoy a feast (click a few more times and unexpected things will happen).
